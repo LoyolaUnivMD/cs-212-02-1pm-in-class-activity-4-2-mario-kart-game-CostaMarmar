@@ -1,1 +1,17 @@
-THINK before you code...
+MarioKartPlayer Class
+    DisplayInfo Method
+        1. print out the players name, the character, and the speed of the player
+    Boost Method
+        1. Print out a statement saying that the player is boosting
+        2. add 15 to the players speed
+        3. tell the user the new speed of the character
+
+MarioKartGame Class
+1. instantiate a MarioKartPlayer object with the name bill, playing as mario, with a speed of 65
+2. instantiate another MarioKartPlayer object with the name john, playing as bowser, with a speed of 50
+3. call the DisplayInfo method for the player bill
+4. call the DisplayInfo method for the player john
+5. call the Boost method for the player bill
+6. call the Boost method for the player john
+7. call the DisplayInfo method for the player bill
+8. call the DisplayInfo method for the player john
