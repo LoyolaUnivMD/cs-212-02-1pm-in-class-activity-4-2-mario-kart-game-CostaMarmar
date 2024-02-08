@@ -1,4 +1,6 @@
 MarioKartPlayer Class
+    1. Create variables for the players name, the character, and the speed of the player
+    2. Create constructor
     DisplayInfo Method
         1. print out the players name, the character, and the speed of the player
     Boost Method

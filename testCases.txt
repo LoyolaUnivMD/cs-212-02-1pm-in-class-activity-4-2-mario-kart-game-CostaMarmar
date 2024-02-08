@@ -1,1 +1,4 @@
-Test cases go here. 
+Player name         character name          speed           output
+bill and john       Mario and bowser        65 and 50       (player info) updated speed of 80 and 65 (respectively)
+steve and bill      Luigi and Mario         25 and 30       (player info) updated speed of 40 and 45
+paul and john       Rosalina and Bowser     70 and 50       (player info) updated speed of 85 and 65
